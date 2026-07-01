@@ -3,4 +3,85 @@ Modern hybrid data centre consume enormous amount of Electricity , Water Cunsump
 
 
 # 🎯 1. Problem Definition 
-**Business Problem:** 
+**Business Problem :**
+
+ Modern Hybrid Data Centre consume enormous Amounts of :
+ - Electricity
+ - Water
+ - Coolong Resources
+
+Companies such as cloud providers operate hundreads of facilities across different countries
+
+Poor resource utilization causes :
+ - High electricity bills
+ - Water shortages
+ - High carbon emissions
+ - Regulatory compliance issue
+ - Reduced profitability
+
+Management wants to identify :
+ - Which facility waste electricity ?
+ - Which cooling system the most resources?
+ - Which facilities require optimization?
+ - Which countries consume the most resources?
+ - can we predict future resource usage?
+
+# 📊 2. Dataset
+
+**Recommended dataset:**
+
+👉 Data Centre Hybrid 
+
+- Data Centre → ID , Year , Name , Company , City , Country ,PUE , WUE , Daily Water Usage , Daily Electricity Usage , Cooling System etc
+
+# 🎯 2. Project Objective 
+**Primary objective :**
+- Analyze electricity consumption
+- Evaluate cooling efficiency
+- Compare facility performance
+- Predict future water usage
+- Detect inefficient facilities
+- Recommend sustainable cooling strategies
+
+**Secondary objective :**
+- Build interactive dashboard
+- Create predictive ML model
+- Build recommendation system
+- Deploy the solution
+
+# 🎯 3. KPI (Key Performance Indicators)
+**Operatonal KPIs :**
+- Avarage PUE
+- Avarage WUE
+- Daily Electricity consumption
+- Daily water consumption
+- Capacity utilization
+- Energy efficiency score
+
+ **Sustainability KPIs :**
+ - Carbon reduction potential
+ - Water saving potential
+ - Green facility percentage
+ - High-risk facility percentage
+
+ **Business  KPIs :**
+- Estimated annual operating cost
+- Cost per MW
+- Water cost
+- Electricity cost
+- ROI after optimization
+
+ **Success Metrics :**
+The project is considered successful if it can :
+- Identify inefficient facilities.
+- Predict resources usage accurately.
+- Recommand better cooling system.
+- Reduce operating cost.
+- Help management make better decisions.
+
+ 
+
+
+
+
+
