@@ -79,9 +79,62 @@ The project is considered successful if it can :
 - Reduce operating cost.
 - Help management make better decisions.
 
- 
 
+ **🎯Business Questions :**
 
+ This dataset can answer many important business questions 
 
+  **Electricity :**
+ - Which facility consume the most electricity?
+ - Which countries consume the most electricity?
+ - Which companies are most energy efficient?
+ - Does larger capacity always consume more power?
+
+ **Water :**
+- Which cooling system has lowest PUE?
+- Which cooling system saves water?
+- Which cooling system should be recommended?
+
+ **Efficiency :**
+- Which facilities have the worst PUE?
+- Which facilities have best PUE?
+- Which facilities require optimization?
+
+ **Geography :**
+- Which countries have most efficient data centres?
+- Which cities consume the highest electricity?
+
+ **Prediction :**
+- Electricity usage?
+- Water usage?
+- PUE?
+- Facility efficiency?
+
+ **End-to-End Analytics Workflow :**
+```
+
+Business Problem
+      ↓
+ Collect Data
+      ↓
+Understand Dataset
+      ↓
+Clean Data
+      ↓
+EDA
+      ↓
+Feature Engineering
+      ↓
+Statistical Analysis
+      ↓
+Machine Learning
+      ↓
+Dashboard
+      ↓
+Deployment
+      ↓
+Business Decision
+
+```
 
 
