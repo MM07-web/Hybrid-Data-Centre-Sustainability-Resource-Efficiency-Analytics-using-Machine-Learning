@@ -137,4 +137,16 @@ Business Decision
 
 ```
 
+**Business Impact :**
+
+if implemented successfully this project can help an organization :
+
+- Reduce electricity costs
+- Lower water consumption
+- Improve sustainability
+- Optimize cooling strategies
+- Prioritize facility upgrades using data-driven insights
+- Support ESG (Environmental , Social and Governance ) reporting
+
+
 
